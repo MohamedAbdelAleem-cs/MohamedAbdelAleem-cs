@@ -2,15 +2,15 @@
 I am a computer science student in Ain Shams University Year 2  
 I live in Cairo, Egypt
 ### Programming Languages I Use
-**--HTML  
---CSS  
---JS  
---Unity  
---C++  
---Java  
---SQL  
---Python  
---Git **
+**--HTML**  
+**--CSS**  
+**--JS**  
+**--Unity**  
+**--C++**  
+**--Java**  
+**--SQL**  
+**--Python**  
+**--Git**  
 
 
 
