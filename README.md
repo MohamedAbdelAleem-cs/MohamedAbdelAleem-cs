@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am a computer science student in Ain Shams University Year 2  
 I live in Cairo, Egypt
-
 ### Programming Languages I Use
 **--HTML  
 --CSS  
@@ -11,8 +10,7 @@ I live in Cairo, Egypt
 --Java  
 --SQL  
 --Python  
---Git 
-**
+--Git **
 
 
 
