@@ -4,7 +4,7 @@ I live in Cairo, Egypt
 
 ### Languages I Know
 ![resized-image-Promo](https://user-images.githubusercontent.com/79015880/115793533-90078580-a3cc-11eb-8343-7ea9c3c584d0.jpeg)
-![resized-image-Promo (1)](https://user-images.githubusercontent.com/79015880/115793618-baf1d980-a3cc-11eb-9803-137e24459435.jpeg)
+![resized-image-Promo (2)](https://user-images.githubusercontent.com/79015880/115793663-ce04a980-a3cc-11eb-8af1-c2b8ddafd75a.jpeg)
 
 
 <!--
