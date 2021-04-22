@@ -14,7 +14,7 @@ I live in Cairo, Egypt
 ### I Am Interested In
 Game development, web development, reading books, playing games and playing sports
 ### I Am Currently Learning
-Web Development to become as intend to it as a job
+Web Development to become as I intend to it as a job
 
 
 <!--
